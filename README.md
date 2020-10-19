@@ -16,7 +16,7 @@
 
 **Elucidation for the following project:**
 
-In a Facebook Messenger bot, you’re supposed to create a bot which will give the answers to the user who will message the bot with some specific keywords such as Jokes, Motivation, meme, etc. You are supposed to get the motivational and memes stuff from Reddit. You can refer to different open projects from GitHub keenly observe them so that you come up with the most innovative way. Display of an efficient code will be appreciated.
+For this project, you're supposed to create a simple Rock paper scissor game with the help of python CLI and also you can make it by using the frameworks like Tkinter or PySimpleGUI. Apply the required logic and including graphics will be a plus. You can refer to different open projects from GitHub keenly observe them so that you come up with the most innovative way. Display of an efficient code will be appreciated.
 
 **Tech Stack to be used:** Python.
 
